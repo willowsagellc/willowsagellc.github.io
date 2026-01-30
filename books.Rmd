@@ -1,0 +1,162 @@
+---
+title: "Willow Sage Book Series"
+---
+
+```{r setup, include=FALSE}
+
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(knitr)
+
+knitr::opts_chunk$set(echo = F)
+knitr::opts_chunk$set(warning = F)
+knitr::opts_chunk$set(message = F)
+```
+
+---
+
+
+#### **ABC Adventures**
+
+
+---
+
+
+Welcome to The **Willow Sage ABC Adventures Series** — where curious young minds journey through the alphabet and discover the incredible world of ecology, one letter at a time!
+This beautifully illustrated series grows with your reader:
+
+🌱 Stage 1 introduces early readers to playful nature words with bright visuals and nursery rhymes
+
+🌿 Stage 2 brings in simple facts and beginner science about animals, plants, and ecosystems
+
+🌳 Stage 3 encourages deeper thinking with real-world eco-concepts, actions, and vocabulary
+
+Every book in the series is designed to build environmental awareness, foster a love for reading and community, and nurture young planet stewards. 
+
+
+---
+
+
+[**BOOK 1: YOU ARE A MAMMAL TOO!**](https://www.amazon.com/You-Are-Mammal-Too-Adventures/dp/B0FWRNMNC2/ref=tmm_pap_swatch_0)
+
+```{r, fig.cap="", out.width = '100%', fig.align='center'}
+    knitr::include_graphics("images/mammals.png")
+```
+
+**📚 YOU ARE A MAMMAL TOO! — An Alphabet Adventure in the Wild!**
+
+
+You Are a Mammal Too! is a lively, fact-filled animal ABC book perfect for growing readers ages 5–7. Designed to bridge early reading stages, this book blends rhyming wordplay, science-based learning, and realistic animal behavior—all wrapped in charming, kid-friendly illustrations.
+From A is for Armadillo to Z is for Zebra, each letter introduces a different mammal in its natural habitat. Little readers will meet an armadillo digging for worms, a narwhal swimming with family, and dozens more mammals behaving just as they would in the wild. On every spread, children will spot alphabet shapes, animal footprints, and a playful rhyme, helping build vocabulary, phonics skills, and a love for wildlife.
+
+The journey ends by showing where humans fit in the mammal family, gently connecting young readers to the natural world around them.
+
+
+🌿 Why Kids, Parents & Teachers Love It
+
+✨ Engaging rhymes that build reading confidence
+
+🐾 Realistic animal behavior presented in a fun, memorable way
+
+🔤 Early literacy support for preschool through early elementary
+
+🌍 Encourages curiosity, empathy, and scientific thinking
+
+Whether you’re searching for an animal alphabet book, a classroom read-aloud, or a nature-themed bedtime favorite, YOU ARE A MAMMAL TOO! deserves a spot on your shelf.
+
+
+**👉 Add it to your cart today and spark a lifelong love of reading and the wild world of mammals!**
+
+
+[**Purchase it on Amazon**](https://www.amazon.com/You-Are-Mammal-Too-Adventures/dp/B0FWRNMNC2/ref=tmm_pap_swatch_0)
+
+
+---
+
+
+[**BOOK 2: MY FIRST BIRD BOOK**](https://www.amazon.com/Z-Feathered-Friends-Adventures-Willow/dp/B0G4J36P28/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.qM2TBmx38qnOduWvI4h4Qg4NNvmYK7m-sJuMrGEgl2Q.qzVwnaZiA4sztb-mArxIxtKZOrxqfCOMKRerwzwUE78&qid=1769740771&sr=1-1) 
+
+
+
+```{r, fig.cap="", out.width = '100%', fig.align='center'}
+    knitr::include_graphics("images/birds.png")
+```
+
+**📚 MY FIRST BIRD BOOK - A-Z of Feathered Friends**
+
+Take flight with A–Z of Feathered Friends, a gentle and engaging introduction to the colorful world of birds—perfect for curious little minds. This charming book features beautifully detailed, realistic illustrations that bring each feathered friend to life.
+
+From tiny finches to graceful swans and dazzling peacocks, every page inspires wonder and discovery. Simple bird names, clear visuals, and a soft, rhythmic flow make it easy for young readers to connect with nature while learning their very first words.
+
+Inside this book, your child will:
+
+🕊️ Discover beautiful birds from A to Z
+
+📚 Build early language and observation skills
+
+🌿 Develop a love for nature and wildlife
+
+Perfect for story time, quiet play, or exploring the outdoors together, A–Z of Feathered Friends is a heartwarming way to nurture your child’s love of nature—one bird at a time.
+
+**Ages 4–7**
+
+🎁 A perfect gift for budding nature lovers!
+
+
+[**Purchase it on Amazon**](https://www.amazon.com/Z-Feathered-Friends-Adventures-Willow/dp/B0G4J36P28/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.qM2TBmx38qnOduWvI4h4Qg4NNvmYK7m-sJuMrGEgl2Q.qzVwnaZiA4sztb-mArxIxtKZOrxqfCOMKRerwzwUE78&qid=1769740771&sr=1-1) 
+
+
+---
+
+
+#### **Environmental Stories**
+
+---
+
+
+Welcome to The **Willow Sage Environmental Stories Series** — where curious young minds journey through the animal stories and discover the incredible world of ecology!
+
+This beautifully illustrated series grows with your reader:
+
+🌱 Stage 1 introduces early readers to playful nature words with bright visuals and rhymes
+
+🌿 Stage 2 brings in simple facts and beginner science about animals, plants, and ecosystems
+
+🌳 Stage 3 encourages deeper thinking with real-world eco-concepts, actions, and vocabulary
+
+Every book in the series is designed to build environmental awareness, foster a love for reading and community, and nurture young planet stewards. 
+
+
+---
+
+
+[**📚 BOOK 1: BELLA AND GARY'S QUEST FOR THE NEST**](https://www.amazon.com/BELLA-GARYS-QUEST-NEST-WILLOW/dp/B0G5DB3CD6/ref=tmm_pap_swatch_0) 
+
+
+```{r, fig.cap="", out.width = '100%', fig.align='center'}
+    knitr::include_graphics("images/hornbills.png")
+```
+
+
+**🕊 BELLA AND GARY'S QUEST FOR THE NEST - A story of love, flight, and 
+finding home**
+
+
+Join Bella and Gary, two Great Hornbills soaring through the rainforest in search of the perfect nest. From crowded hollows to towering treetops, every stop brings a new challenge as they work together to find a safe home for their future family.
+
+With rich illustrations and gentle storytelling, **Bella and Gary’s Quest for the Nest** celebrates nature, teamwork, and the remarkable nesting journey of Great Hornbills. Young readers will enjoy the expressive characters, vibrant forest scenes, and the warm message of building a home with love.
+
+Includes a Great Hornbill Fun Facts page for curious minds.
+
+
+🎁 A perfect gift for ages 3–7 and ideal for animal lovers, nature-themed story time, classrooms, libraries, and families who enjoy inspiring picture books.
+
+
+[**Purchase it on Amazon**](https://www.amazon.com/BELLA-GARYS-QUEST-NEST-WILLOW/dp/B0G5DB3CD6/ref=tmm_pap_swatch_0) 
+
+
+---
+
+
+
+
+
