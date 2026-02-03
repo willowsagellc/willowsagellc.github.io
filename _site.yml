@@ -16,8 +16,14 @@ navbar:
   - text: Home
     href: index.html
     icon: fa-home
+  - text: IDI
+    href: idi.html
+    icon: fa-globe
   - text: Books
     href: books.html
+    icon: fa-book
+  - text: OER
+    href: oer.html
     icon: fa-book
     
   right:
@@ -26,3 +32,9 @@ navbar:
       href: "https://www.linkedin.com/in/kusum-naithani-834ba013a/",
       align: right
     }
+    
+    
+# Resources:
+## icons 
+# https://fontawesome.com/search?q=ID&o=r&m=free
+
