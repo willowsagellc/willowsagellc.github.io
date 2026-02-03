@@ -1,0 +1,50 @@
+---
+title: " "
+output: html_document
+---
+
+```{r setup, include = F}
+knitr::opts_chunk$set(echo = F)
+```
+
+
+```{r, fig.cap="", out.width = '100%', fig.align='center'}
+    knitr::include_graphics("images/banner.png")
+```
+
+
+---
+
+
+#### **OPEN EDUCATIONAL RESOURCES**
+
+
+---
+
+
+**ABC OF MAMMALS ALPHABET TRACING BOOK** | [**Purchase on Amazon**](https://www.amazon.com/gp/product/B0G4GSX6QF?ref_=dbs_mng_crcw_0&storeType=ebooks) | [**Download free pdf file**](https://drive.google.com/file/d/1pRixhXLR6hLhEIjhGrubNKPnbs57HdB3/view?usp=sharing)
+
+**ABC OF MAMMALS DRAWING BOOK** | [**Purchase on Amazon**](https://www.amazon.com/gp/product/B0G4GPCT5Q?ref_=dbs_mng_crcw_1&storeType=ebooks) | [**Download free pdf file**]()
+
+**ABC OF MAMMALS COLORING BOOK** | 
+[**Purchase on Amazon**](https://www.amazon.com/gp/product/B0G4GPCT5Q?ref_=dbs_mng_crcw_1&storeType=ebooks) | [**Download free pdf file**]()
+
+
+---
+
+
+```{r, fig.cap="", out.width = '100%', fig.align='center'}
+    knitr::include_graphics("images/freebooks-mammals.png")
+```
+
+
+---
+
+
+**Email: <contact.willowsage@gmail.com>**
+
+**Copyright © 2026 Willow Sage LLC**
+
+---
+
+
