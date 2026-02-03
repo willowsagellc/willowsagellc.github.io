@@ -20,28 +20,33 @@ The assessments are confidential and are used only as a baseline tool. The resul
 
 The IDI consists of a [continuum of five development models](https://idiinventory.com/idc). Below is an infographic displaying the continuum.
 
+---
+
 
 ```{r, fig.cap="", out.width = '80%', fig.align='center'}
     knitr::include_graphics("images/idi.png")
 ```
 
 
+---
+
+
 #### **The IDI Process**
 
 
-First, request a consultation on the IDI or a guided session for your leadership team by filling out our [request form](https://forms.gle/RoTZDtftCPGyPDuu8).
+First, request a **free 30 min consultation** on the IDI or a guided session for your leadership team by filling out our [**request form**](https://forms.gle/RoTZDtftCPGyPDuu8).
 
 **Individual Assessment**
 
 
-Our Qualified Administrator will meet with you to talk about why cultural competency is important and how it aligns with three core values or key initiatives you identify for your personal growth. After that discussion, the assessment will be sent to you. The results are then shared as a pdf report with you. Our QA will schedule individual debrief with you to review your results and discuss a personalized Independent Development Plan (IDP) which serves as a guide to increase your cultural competence over the next 18-24 months. 
+Our Qualified Administrator will meet with you to talk about why cultural competency is important and how it aligns with core values or key initiatives you identify for your personal growth. After that discussion, the assessment will be sent to you. The results are then shared as a pdf report with you. Our QA will schedule individual debrief with you to review your results and discuss a personalized Independent Development Plan (IDP) which serves as a guide to increase your cultural competence over the next 18-24 months. 
 
 A re-assessment will be done to evaluate progress after the 18-24 month period.
 
 
 **Organizational Assessment**
 
-Our Qualified Administrator will meet with you and your team to talk about why cultural competency is important and how it aligns with three core values or key initiatives you identify as an organization. After that discussion, the assessment will be sent to those determined to play a key role in setting the tone for your organization's culture.
+Our Qualified Administrator will meet with you and your team to talk about why cultural competency is important and how it aligns with core values or key initiatives you identify as an organization. After that discussion, the assessment will be sent to those determined to play a key role in setting the tone for your organization's culture.
 
 The results are then shared in aggregate by the QA with the group, and following, the QA will schedule individual debriefs with each person who has taken the assessment to review their results and discuss a personalized Independent Development Plan (IDP) which serves as a guide to increase one’s cultural competence over the next 18-24 months. 
 
