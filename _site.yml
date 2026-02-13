@@ -11,41 +11,35 @@ output:
     toc_float: no
     
 navbar:
-  title: Willow Sage LLC
+  title: Naithani Lab
   left:
   - text: Home
     href: index.html
     icon: fa-home
-      
-  - text: Books
-    href: books.html
+  - text: Projects
+    href: Projects.html
+    icon: fa-flask
+  - text: Publications
+    href: "https://scholar.google.com/citations?hl=en&user=t1udHZoAAAAJ&view_op=list_works&gmla=ALUCkoXYuTmdZbYSUoXEtNNr0_3fm34RingQPYsSrxpkBgYENg6qzjz1oJOJ-UQ8JEMMDOgX2oL_GGYw0TJ6BSi0/"
     icon: fa-book
-    
-  - text: OER
-    href: oer.html
-    icon: fa-book
-    
-  - text: IDI
-    href: idi.html
-    icon: fa-globe
-
-  - text: Coaching
-    href: coaching.html
-    icon: fa-handshake-angle
-    
-  - text: Team Science
-    href: tsf.html
-    icon: fa-teamspeak
+  - text: Teaching
+    href: Teaching.html
+    icon: fa-chalkboard
+  - text: Join the Lab
+    href: Positions.html
+    icon: fa-user
+  - text: Lab Resources
+    href: Resources.html
+    icon: fa-toolbox   
     
   right:
   - { 
-      icon: "fa-linkedin",
-      href: "https://www.linkedin.com/in/kusum-naithani-834ba013a/",
+      icon: "fa-linkedin", 
+      href: "https://www.linkedin.com/in/kusum-naithani-834ba013a/", 
       align: right
     }
-    
-    
+
+
 # Resources:
 ## icons 
 # https://fontawesome.com/search?q=ID&o=r&m=free
-
